@@ -20,19 +20,20 @@
 
 ### 🌟 核心项目 (Featured Work)
 
-> **[gokill](https://github.com/w31r4/gokill)**
-> <br>
-> <i>"A modern, interactive process killer for macOS & Linux."</i>
+这里展示了我的一些个人开源项目，涵盖了 TUI 工具与 MCP 协议实现。
 
-这是一个基于 Go 编写的终端交互式（TUI）进程管理工具。它旨在提供比 `kill` 更直观、比 `top` 更聚焦的进程查杀体验。
-
-* **Type:** TUI Tool (System Utility)
-* **Features:** 交互式模糊搜索进程、支持多平台 (Linux/macOS)、实时资源监控、Vim 风格快捷键。
-* **Tech:** Go, TUI Architecture, System Calls (syscall).
+| Project | Description |
+| :--- | :--- |
+| **[gokill](https://github.com/w31r4/gokill)**<br>_Interactive Process Killer_ | **macOS & Linux 平台的交互式进程查杀工具**<br>提供比 `kill` 更直观、比 `top` 更聚焦的体验。<br>• **Tech:** Go, TUI, Syscall<br>• **Features:** 模糊搜索、Vim 风格快捷键、实时监控 |
+| **[codex-mcp-go](https://github.com/w31r4/codex-mcp-go)**<br>_MCP Server Implementation_ | **基于 Go 语言实现的 Model Context Protocol (MCP)**<br>允许大语言模型 (LLM) 与本地数据或工具进行交互。<br>• **Tech:** Go, JSON-RPC, AI Agent<br>• **Focus:** 标准协议实现、高性能、易扩展 |
 
 <div align="center">
+  <h4>🚀 Project Stats</h4>
   <a href="https://github.com/w31r4/gokill">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=w31r4&repo=gokill&theme=tokyonight&border_radius=10" alt="gokill" />
+  </a>
+  <a href="https://github.com/w31r4/codex-mcp-go">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=w31r4&repo=codex-mcp-go&theme=tokyonight&border_radius=10" alt="codex-mcp-go" />
   </a>
 </div>
 
@@ -42,21 +43,4 @@
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Backend & Systems** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| **Cloud Native** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![K8s](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Microservices](https://img.shields.io/badge/-Distributed-black?style=flat-square) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
-
----
-
-### 📊 活跃度 (Activity)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=w31r4&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w31r4&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" height="160" />
-</div>
-
-<br>
-
-<div align="center">
-  📫 <b>联系我:</b> 欢迎通过 Issue 或邮件与我交流技术！
-</div>
+| **Backend & Systems** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](
