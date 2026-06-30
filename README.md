@@ -14,6 +14,8 @@ Hi, I'm w31r4 — a developer focused on AI agents, currently an agent-backend e
 
 Mostly Go and Python. I build agent backends and developer tooling, and study how LLM coding agents behave at runtime (MCP, proxies, trace analysis).
 
+Open source is the part I love most — I hope to do it full-time one day. And I'm quietly waiting for the AI hype to cool off, so the engineering can speak for itself.
+
 ### Selected work
 
 - **[zenfun-code](https://github.com/w31r4/zenfun-code)** — a self-built coding agent.
