@@ -10,7 +10,7 @@
 
 <br>
 
-Hi, I'm w31r4 — a developer focused on AI agents, currently an agent-backend engineering intern at Converge AI.
+Hi, I'm w31r4 — a developer focused on AI agents, currently an agent-backend engineering intern at [Converge AI](https://converge.ai/).
 
 Mostly Go and Python. I build agent backends and developer tooling, and study how LLM coding agents behave at runtime (MCP, proxies, trace analysis).
 
