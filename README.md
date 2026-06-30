@@ -10,9 +10,9 @@
 
 <br>
 
-Hi, I'm w31r4 — a backend & cloud-native developer (and student) who likes building small, fast developer tools.
+Hi, I'm w31r4 — a developer focused on AI agents, currently an agent-backend engineering intern at Converge AI.
 
-Mostly Go and Python. Into CLI/TUI ergonomics, distributed systems, and the behavior of LLM coding agents (MCP, proxies, trace analysis).
+Mostly Go and Python. I build agent backends and developer tooling, and study how LLM coding agents behave at runtime (MCP, proxies, trace analysis).
 
 ### Selected work
 
@@ -23,6 +23,6 @@ Mostly Go and Python. Into CLI/TUI ergonomics, distributed systems, and the beha
 
 ### Now
 
-Building developer tools in Go/Python, exploring LLM agents in local dev workflows, and open to full-time backend / cloud-native / infrastructure roles.
+Agent backend development day to day at Converge AI. Open to full-time roles in AI agent development.
 
 <sub>Reach me via GitHub issues/discussions, or email (see profile).</sub>
