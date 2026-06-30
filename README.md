@@ -2,7 +2,8 @@
   <samp>
     <a href="https://github.com/w31r4?tab=repositories">projects</a> ·
     <a href="https://github.com/w31r4/zenfun-code">zenfun-code</a> ·
-    <a href="https://github.com/w31r4/codex-mcp-go">codex-mcp-go</a> ·
+    <a href="https://github.com/w31r4/shipyard-neo">shipyard-neo</a> ·
+    <a href="https://github.com/w31r4/AstrBot">astrbot</a> ·
     <a href="https://github.com/w31r4/gokill">gokill</a>
   </samp>
 </p>
@@ -16,7 +17,8 @@ Mostly Go and Python. Into CLI/TUI ergonomics, distributed systems, and the beha
 ### Selected work
 
 - **[zenfun-code](https://github.com/w31r4/zenfun-code)** — a self-built coding agent.
-- **[codex-mcp-go](https://github.com/w31r4/codex-mcp-go)** — a Model Context Protocol server in Go, bridging Codex CLI with tools like Claude Code and Cursor.
+- **[shipyard-neo](https://github.com/w31r4/shipyard-neo)** — a secure, persistent execution platform for AI agents.
+- **[astrbot](https://github.com/w31r4/AstrBot)** — agentic IM chatbot infrastructure across IM platforms, LLMs, and plugins.
 - **[gokill](https://github.com/w31r4/gokill)** — an interactive process killer (TUI) for macOS & Linux; Bubble Tea, fuzzy search, Vim keys.
 
 ### Now
