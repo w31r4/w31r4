@@ -12,9 +12,20 @@
 
 Hi, I'm w31r4 — a developer focused on AI agents, currently an agent-backend engineering intern at [Converge AI](https://converge.ai/).
 
-Mostly Go and Python. I build agent backends and developer tooling, and study how LLM coding agents behave at runtime (MCP, proxies, trace analysis).
+Mostly Go and Python, building agent systems end to end.
 
 Open source is the part I love most — I hope to do it full-time one day. And I'm quietly waiting for the AI hype to cool off, so the engineering can speak for itself.
+
+### What I've built
+
+- A full Claude-Code-style coding agent.
+- Subagent orchestration and a background-task system.
+- A permission / approval system for agent actions.
+- An agent sandbox built on OS-native tooling.
+- An AI gateway for model routing and access.
+- Agent integrations for IM / chat platforms.
+- An agent-behavior observability stack (OpenTelemetry).
+- DevOps to streamline the developer experience.
 
 ### Selected work
 
